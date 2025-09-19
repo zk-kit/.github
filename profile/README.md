@@ -17,3 +17,7 @@ ZK-Kit provides different repositories for each language:
 - [Solidity](https://github.com/zk-kit/zk-kit.solidity/issues)
 - [Circom](https://github.com/zk-kit/zk-kit.circom/issues)
 - [Rust](https://github.com/zk-kit/zk-kit.rust/issues)
+
+## 📄 Papers
+
+- [LeanIMT](https://zkkit.org/leanimt-paper.pdf)
