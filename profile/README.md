@@ -10,13 +10,21 @@ ZK-Kit provides different repositories for each language:
 - Circom ([`zk-kit.circom`](https://github.com/zk-kit/zk-kit.circom))
 - Rust ([`zk-kit.rust`](https://github.com/zk-kit/zk-kit.rust))
 
-## Open Issues
+## 📋 Open Issues
 
 - [TypeScript/JavaScript](https://github.com/zk-kit/zk-kit/issues)
 - [Noir](https://github.com/zk-kit/zk-kit.noir/issues)
 - [Solidity](https://github.com/zk-kit/zk-kit.solidity/issues)
 - [Circom](https://github.com/zk-kit/zk-kit.circom/issues)
 - [Rust](https://github.com/zk-kit/zk-kit.rust/issues)
+
+## 📦 Packages
+
+- [TypeScript/JavaScript](https://github.com/zk-kit/zk-kit?tab=readme-ov-file#-packages)
+- [Noir](https://github.com/zk-kit/zk-kit.noir?tab=readme-ov-file#-packages)
+- [Solidity](https://github.com/zk-kit/zk-kit.solidity?tab=readme-ov-file#-packages)
+- [Circom](https://github.com/zk-kit/zk-kit.circom?tab=readme-ov-file#-packages)
+- [Rust](https://github.com/zk-kit/zk-kit.rust?tab=readme-ov-file#-crates)
 
 ## 📄 Papers
 
